@@ -14,7 +14,7 @@ A comprehensive sales dashboard for analyzing sales performance across regions a
 * **Power BI**: Power BI file (.pbix) for creating interactive dashboards
 
 ## Installation and Setup
-1. Clone the repository: `git clone https://github.com/your-username/DataAnalytics-BusinessDataSalesTracker.git`
+1. Clone the repository: `git clone https://github.com/Burhan-zakki/BusinessSalesDataAnalytics`
 
 ## Usage
 1. Open the Power BI file (.pbix) to view the dashboard
@@ -27,6 +27,8 @@ A comprehensive sales dashboard for analyzing sales performance across regions a
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/3c853fd0-fd20-4cf8-af2a-e32726ac86b9)
+![image](https://github.com/user-attachments/assets/b305df8f-c943-4c9a-9d2f-0badc4e010c0)
+
 
 
 ## Contributing
